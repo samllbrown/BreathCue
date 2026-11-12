@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+# per-user settings (mic name, window position) - created on first run
+config.json
